@@ -1,5 +1,10 @@
 # Fundamento de funcionamento de spy e mock externo
 
+<div align="center">
+<i>Esse material é quase de graça, basta deixar uma star ⭐ no <a href="https://github.com/PauloGoncalvesBH/my-framework-test">repositório</a>.</i>
+</div>
+<br>
+
 Esse material consiste em entender o funcionamento interno de:
 1. **mock de uma dependência**, substituindo seu conteúdo pelo arquivo de mesmo nome no diretório `__mocks__`
 1. **spy**, entendendo como altera o conteúdo ao mesmo tempo que armazena o conteúdo das chamadas feitas.
