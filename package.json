@@ -1,0 +1,15 @@
+{
+  "name": "my-test-framework",
+  "version": "1.0.0",
+  "description": "Estudo de funcionamento interno de mock do jest",
+  "private": true,
+  "author": "Paulo Gonçalves Gonçalves <Paulo Gonçalvesrochag@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "node index.js ./**/*.test.js"
+  },
+  "dependencies": {
+    "chalk": "2.4.2",
+    "signale": "1.4.0"
+  }
+}
