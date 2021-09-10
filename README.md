@@ -23,6 +23,14 @@ Acesse:
 
 ## Execução
 
+### Com docker e docker-compose
+
+```
+make test
+```
+
+### Com node
+
 1. Instale as dependências:
 ```
 npm install
