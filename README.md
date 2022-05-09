@@ -52,3 +52,7 @@ node index.js ./**/*.test.js
 
 - [require.cache](https://nodejs.org/api/modules.html#modules_require_cache): Utilizado para alterar o módulo carregado em cache.
 - [require.resolve](https://nodejs.org/api/modules.html#modules_require_resolve_request_options): Utilizado para pegar a localização do módulo.
+
+## Extra
+
+Repositório: [Material de estudo de testes de unidade e dublês de teste utilizando Jest](https://github.com/PauloGoncalvesBH/dubles-de-teste-com-jest)
