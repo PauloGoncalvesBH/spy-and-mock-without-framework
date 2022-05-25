@@ -5,5 +5,6 @@ module.exports = {
   spyOn: require('./my-test-framework/spy').spyOn,
 }
 
+
 const files = process.argv
 files.slice(2).forEach((file) => require(file))
